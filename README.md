@@ -1,4 +1,4 @@
-# NotionAI Discord Bot
+# Notion(AI-Bot)
 
 中文 | [English](README.en.md)
 
